@@ -1,15 +1,15 @@
 var Twitter = require('twitter');
-var googleTranslate = require('google-translate')("AIzaSyB8XwPouFRaTV_2NsaoyVYBnb6ag_iJbOM");
+var googleTranslate = require('google-translate')("");
 
 
 var number = 0;
 
 
 var client = new Twitter({
-  consumer_key: 'P96aogyv5bBZ6hyU9sJ3wRK7y',
-  consumer_secret: 'hODsmFajBvrH4PCH7vX1BrN79Qa8P1TmUkYimdjr5qDL5thItO',
-  access_token_key: '81624028-XWqhcJqE6gsYcDaOMqCsj19tGPzI974VNYnNpuMI2',
-  access_token_secret: 'Sqf6H6ZALaY3ATXayfjevuOY1sYQZqI2DvIitemmabrTG'
+  consumer_key: '',
+  consumer_secret: ,
+  access_token_key: '',
+  access_token_secret: ''
 });
  
 
